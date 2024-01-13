@@ -33,6 +33,11 @@ answers = [[0,33],[123,199],...]
 ```
 Then run `gpt.py` and `eval.py`.
 
+## Case Show
+We show some cases to illustrate that (i) our method benefits from multimodal, with higher accuracy achieved when visual captions are added. (ii) our method benefits from our Boundary-Perceptive Prompting strategy, showing correct reasoning steps.
+![case1](figures/case1.jpg)
+
+![case2](figures/case2.jpg)
 
 ## Acknowledgment
 Thanks to [VidChapters](https://antoyang.github.io/vidchapters.html) for its great work, which might be a nice benchmark for TSG in long videos in the future, especially requiring methods to both use speeches and visual content.
