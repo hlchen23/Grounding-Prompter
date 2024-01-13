@@ -1,6 +1,6 @@
 # Grounding-Prompter: An LLM Agent Framework for Temporal Sentence Grounding(TSG)
 
-Official Implementation of "**Grounding-Prompter: Prompting LLM with Multimodal Information for Temporal Sentence Grounding in Long Videos**".
+Official Implementation of "[**Grounding-Prompter: Prompting LLM with Multimodal Information for Temporal Sentence Grounding in Long Videos**](https://arxiv.org/abs/2312.17117)".
 
 
 ![motivation](figures/motivation.jpg)
